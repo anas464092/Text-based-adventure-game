@@ -1,0 +1,34 @@
+Game Manuel:
+              "Instructions to play the game"
+
+1. You have to press 's' or 'S' to start the game.
+
+2. If you want to quit the game, press 'e' or 'E'.
+
+3. When you start the game, a menu will appear of selecting the game mode.
+
+4. There are three modes in the game, you can choose from them.
+
+5. After choosing the mode, a map will appear in which you have to score points.
+
+6. The mafia will chase you in the map, you have to escape from mafia.  
+
+7. If the mafia catches you in the map, the game will end and you will lose.
+
+8. In easy mode, you have to score 500 to encounter the mafia.
+
+9. In medium mode, you have to score 700 to encounter the mafia.
+
+10. In hard mode, you have to score 1000 to encounter the mafia.
+
+11. If you scored the required target score, you will encounter mafia.
+
+12. After encountering with mafia, you have to battle with mafia through random functions of attack, defend and heal.
+
+13. A response is provided to you to decide whether you want to attack, defend or heal.
+
+14. You can heal only when your power is less than 50.
+
+15. The game will end as one of you will die due to random functions of attack and defend.
+
+16. You will win if the power of mafia reaches 0 before your power reaches 0.
